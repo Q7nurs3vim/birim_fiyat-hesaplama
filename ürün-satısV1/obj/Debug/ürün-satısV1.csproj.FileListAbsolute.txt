@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ürün-satısV1\ürün-satısV1\bin\Debug\ürün-satısV1.exe.config
+C:\Users\User\source\repos\ürün-satısV1\ürün-satısV1\bin\Debug\ürün-satısV1.exe
+C:\Users\User\source\repos\ürün-satısV1\ürün-satısV1\bin\Debug\ürün-satısV1.pdb
+C:\Users\User\source\repos\ürün-satısV1\ürün-satısV1\obj\Debug\ürün-satısV1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ürün-satısV1\ürün-satısV1\obj\Debug\ürün-satısV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ürün-satısV1\ürün-satısV1\obj\Debug\ürün_satısV1.Form1.resources
+C:\Users\User\source\repos\ürün-satısV1\ürün-satısV1\obj\Debug\ürün_satısV1.Properties.Resources.resources
+C:\Users\User\source\repos\ürün-satısV1\ürün-satısV1\obj\Debug\ürün-satısV1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ürün-satısV1\ürün-satısV1\obj\Debug\ürün-satısV1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ürün-satısV1\ürün-satısV1\obj\Debug\ürün-satısV1.exe
+C:\Users\User\source\repos\ürün-satısV1\ürün-satısV1\obj\Debug\ürün-satısV1.pdb
